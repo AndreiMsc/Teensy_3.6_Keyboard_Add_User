@@ -1,4 +1,4 @@
-# Teensy_3.6-Windows10-keyboard-Add_User
+# Teensy_3.6_Keyboard_Add_User
 
 
 ![My_Teensy_3.6](https://github.com/AndreiMsc/Teensy_3.6-Windows10-keyboard-Add_User/blob/master/My_Teensy_3.6.png)
