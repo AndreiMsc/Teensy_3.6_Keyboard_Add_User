@@ -5,7 +5,7 @@
 
 V1.0
 
- This application is developed using C programming language and tested on the Teensy 3.6 microcontroller, on Windows 10, in the Arduino application (with the Teensy extensions), under "Serial + Keyboard + Mouse + Joystick" usb type. It may(most probably) work on other 'usb type' configurations which include 'Keyboard'. It also may work on other OSes.
+ This application is developed using Arduino (a language set on C/C++ functions) programming language and tested on the Teensy 3.6 microcontroller, on Windows 10, in the Arduino application (with the Teensy extensions), under "Serial + Keyboard + Mouse + Joystick" usb type. It may(most probably) work on other 'usb type' configurations which include 'Keyboard'. It also may work on other OSes.
 
  Its purpose is to add an user in a short time. It can be used with various purposes including security tests. After user-adding procces is finished, it leaves no traces of its actions(ex. it closes the windows it used).
  
