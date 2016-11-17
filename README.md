@@ -1,7 +1,7 @@
 # Teensy_3.6-Windows10-keyboard-Add_User
 
 
-![alt tag](https://www.github.com/AndreiMsc/Teensy_3.6-Windows10-keyboard-Add_User/blob/master/My_Teensy_3.6.jpg)
+![alt tag](https://www.github.com/AndreiMsc/Teensy_3.6-Windows10-keyboard-Add_User/blob/master/My_Teensy_3.6.png)
 
 V1.0
 
