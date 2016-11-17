@@ -42,9 +42,8 @@ void setup(){
   Keyboard.send_now();
   All of the above had the purpose to give admin rights to the current user - Not necessary, not complete*/
 
-  delay(1000);      //The start is delayed so that the Teensy can make proper connection with the device it is use on.
+  delay(1000);      //The start is delayed so that the Teensy can make proper connection with the device it is used on.
   
- 
   const int ledPin = 13;      //We assign the led to the pin 13.
       // Teensy 2.0 has the LED on pin 11
       // Teensy++ 2.0 has the LED on pin 6
@@ -103,24 +102,7 @@ void setup(){
  * Future version will modify: running time, eventual bugs
  */
 }
-/* You only add an user with the given name once, so no loop is implemented. */
-void loop(){
+
+void loop(){ 
+// You only add an user with the given name once, so no loop is implemented. 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
