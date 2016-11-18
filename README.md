@@ -1,6 +1,6 @@
 # Teensy_3.6_Keyboard_Add_User
 
-Disclaimer: I do not encourage the misusage of the application. Do not use this on other people's PCs because it would be illegal. The code was developed ONLY FOR EDUCATIONAL PURPOSE and TO SERVE AS AN EXAMPLE of what you can do with Teensy ON YOUR OWN PC. 
+Disclaimer: I do not encourage the misusage of the application. Do not use this on other people's PCs because it would be illegal. The code was developed ONLY FOR EDUCATIONAL PURPOSE and TO SERVE AS AN EXAMPLE of what you can do with Teensy ON YOUR OWN PC. I cannot be held responsible for your usage of the code.
 
 ![My_Teensy_3.6](https://github.com/AndreiMsc/Teensy_3.6-Windows10-keyboard-Add_User/blob/master/My_Teensy_3.6.png)
 
